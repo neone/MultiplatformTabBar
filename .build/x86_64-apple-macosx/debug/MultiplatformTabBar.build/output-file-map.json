@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/master.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTab.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTab.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTab.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTab~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTab.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabBar.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBar.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBar.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBar.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabBarHorizontalAlignment.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarHorizontalAlignment.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarHorizontalAlignment.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarHorizontalAlignment~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarHorizontalAlignment.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabBarVerticalAlignment.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarVerticalAlignment.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarVerticalAlignment.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarVerticalAlignment~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabBarVerticalAlignment.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabCollection.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabCollection.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabCollection.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabCollection.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabViewPosition.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabViewPosition.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabViewPosition.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabViewPosition~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/MultiplatformTabBar.build/MultiplatformTabViewPosition.swiftdeps"
+  }
+}

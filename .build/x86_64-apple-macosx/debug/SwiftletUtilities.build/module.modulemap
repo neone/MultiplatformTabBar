@@ -1,0 +1,4 @@
+module SwiftletUtilities {
+    header "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SwiftletUtilities-Swift.h"
+    requires objc
+}

@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "600d96fe8cb600275621bf4f86f0e07d"
+build_time: [1620672104, 266488000]
+inputs:
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTab.swift": [1620671356, 956037092]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabBar.swift": [1620671356, 956455502]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabBarHorizontalAlignment.swift": [1620671356, 956786635]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabBarVerticalAlignment.swift": [1620671356, 957133331]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabCollection.swift": [1620671356, 957473857]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/Sources/MultiplatformTabBar/MultiplatformTabViewPosition.swift": [1620671356, 957860313]

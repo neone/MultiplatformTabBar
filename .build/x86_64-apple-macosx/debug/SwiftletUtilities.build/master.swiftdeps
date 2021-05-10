@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "b0b8875444d57ae6bab3c760604da53f"
+build_time: [1620672088, 712910000]
+inputs:
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/ArrayExtensions.swift": [1620672087, 989281914]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/ColorExtentions.swift": [1620672087, 989521067]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/DoubleExtensions.swift": [1620672087, 989702939]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/IntegerExtensions.swift": [1620672087, 989870603]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/PublishedExtensions.swift": [1620672087, 990088870]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/StringExtensions.swift": [1620672087, 990360698]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/ViewExtensions.swift": [1620672087, 990556806]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Hardware/AppleHardwareType.swift": [1620672087, 990845536]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Hardware/HardwareInformation.swift": [1620672087, 991056484]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Utilities/HTMLEntity.swift": [1620672087, 991331042]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Utilities/Reachability.swift": [1620672087, 991506664]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS DataExtensions.swift": [1620672087, 991978876]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS ImageExtensions.swift": [1620672087, 992198304]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS StringExtensions.swift": [1620672087, 992427307]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS ViewExtensions.swift": [1620672087, 992608471]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/macOS/Extensions/macOS DataExtensions.swift": [1620672087, 992955541]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/macOS/Extensions/macOS ImageExtensions.swift": [1620672087, 993142644]
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/macOS/Extensions/macOS StringExtensions.swift": [1620672087, 993336702]

@@ -1,0 +1,113 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/master.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/ArrayExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ArrayExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ArrayExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ArrayExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ArrayExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/ColorExtentions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ColorExtentions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ColorExtentions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ColorExtentions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ColorExtentions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/DoubleExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/DoubleExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/DoubleExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/DoubleExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/DoubleExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/IntegerExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/IntegerExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/IntegerExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/IntegerExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/IntegerExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/PublishedExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/PublishedExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/PublishedExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/PublishedExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/PublishedExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/StringExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/StringExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/StringExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/StringExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Extensions/ViewExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ViewExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ViewExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ViewExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Extensions/ViewExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Hardware/AppleHardwareType.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/AppleHardwareType.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/AppleHardwareType.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/AppleHardwareType~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/AppleHardwareType.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Hardware/HardwareInformation.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/HardwareInformation.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/HardwareInformation.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/HardwareInformation~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Hardware/HardwareInformation.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Utilities/HTMLEntity.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/HTMLEntity.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/HTMLEntity.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/HTMLEntity~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/HTMLEntity.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/SharedCode/Utilities/Reachability.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/Reachability.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/Reachability.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/Reachability~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/SharedCode/Utilities/Reachability.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS DataExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS DataExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS DataExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS DataExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS DataExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS ImageExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ImageExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ImageExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ImageExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ImageExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS StringExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS StringExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS StringExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS StringExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/iOS/Extensions/iOS ViewExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ViewExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ViewExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ViewExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/iOS/Extensions/iOS ViewExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/macOS/Extensions/macOS DataExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS DataExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS DataExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS DataExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS DataExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/macOS/Extensions/macOS ImageExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS ImageExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS ImageExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS ImageExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS ImageExtensions.swiftdeps"
+  },
+  "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/checkouts/SwiftletUtilities/Sources/SwiftletUtilities/macOS/Extensions/macOS StringExtensions.swift": {
+    "dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS StringExtensions.d",
+    "object": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS StringExtensions.swift.o",
+    "swiftmodule": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kmullins/Xcode Projects/GitHub/MultiplatformTabBar/.build/x86_64-apple-macosx/debug/SwiftletUtilities.build/macOS/Extensions/macOS StringExtensions.swiftdeps"
+  }
+}
